@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+        "@airtable/blocks": "0.0.53",
+        "@tinymce/tinymce-react": "^3.6.0",
+        "copy-to-clipboard": "^3.3.1",
+        "react": "^16.13.0",
+        "react-accessible-accordion": "^3.0.1",
+        "react-dom": "^16.13.0",
+        "react-dragula": "^1.1.17",
+        "react-frame-component": "^4.1.2",
+        "react-typeahead": "^2.0.0-alpha.8",
+        "sanitize-html": "^1.20.1"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react-hooks": "^2.5.0"
+    },
+    "scripts": {
+        "lint": "eslint frontend"
+    }
+}
